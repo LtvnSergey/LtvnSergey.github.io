@@ -31,7 +31,7 @@ Quality of the model prediction was measured by accuracy and confusion matrix.
 <center><img src="images/dog_1.png"/></center>
 <br>
 <br>
-<center><img src="images/dog_2_2.png" width="300"/></center>
+<center><img src="images/dog_2.png" width="300"/></center>
 <br>
 
 ---
