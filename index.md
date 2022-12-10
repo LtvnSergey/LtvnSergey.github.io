@@ -1,17 +1,19 @@
-## Portfolio
+# Portfolio
 
 ---
 
+## Computer vision
+
 ### Computer vision
 
-[View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/LtvnSergey/Pleural-Effusion-Detection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/LtvnSergey/Pleural-Effusion-Detection)
 
 <div style="text-align: justify"> I tried to predict pleural effusion on MRI scans. This is an image segmentation problem. Project includes preprocessing data in special format used in medicine,  training U-net for segmentation, tracking with Tensorboard. For quality measurements DICE metric was used.    </div>
 <br>
 <center><img src="images/pleural_1.png"/></center>
 <br>
 <br>
-<center><img src="images/pleural_2.png"/></center>
+<center><img src="images/pleural_2.png" width="100"/></center>
 <br>
 
 ---
