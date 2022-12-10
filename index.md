@@ -4,7 +4,7 @@
 
 ## Computer vision
 
-### Computer vision
+### Pleural effusion detection
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/LtvnSergey/Pleural-Effusion-Detection)
 
@@ -13,7 +13,7 @@
 <center><img src="images/pleural_1.png"/></center>
 <br>
 <br>
-<center><img src="images/pleural_2.png" width="100"/></center>
+<center><img src="images/pleural_2.png" width="300"/></center>
 <br>
 
 ---
