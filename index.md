@@ -63,6 +63,8 @@ Gradio framework was used for web application.
 <br>
 <br>
 Project include: 
+<br>
+
 <ul class="b">
     <li>Analysis of data</li>
     <li>Fisher exact test</li>
