@@ -68,6 +68,8 @@ Project include:
 </div>
 
 <br>
+<br>
 <center><img src="images/advertising_a_b.png"/></center>
 <br>
----
+
+ ---
