@@ -22,7 +22,7 @@ training U-net for segmentation, tracking with Tensorboard. For quality measurem
     <li>Build web app with  Flask framework</li>
     <li>Perform model tests and analyse results with Tesnorboard</li>
 </ul>
-</div
+</div>
 
 <br>
 <center><img src="images/pleural_1.png"/></center>
@@ -109,3 +109,5 @@ Gradio framework was used for web application.
 
 <img src="images/a_b_test.png"/>
 
+
+---
