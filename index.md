@@ -94,7 +94,7 @@ Gradio framework was used for web application.
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/LtvnSergey/Advertising-A-B-Testing)
 
 <div style="text-align: justify">The company is trying new ad design to increase ad success. 
-<br>To do so they made new creative advertising design with SmartAd brand and conduct an A/B test in which <br>one group of users have been shown an old ad and another - new one.
+<br>To do so they made new creative advertising design with SmartAd brand and conduct an A/B test in which one group of users have been shown an old ad and another - new one.
 <br>
 <br>
 <b>Project include</b>: 
