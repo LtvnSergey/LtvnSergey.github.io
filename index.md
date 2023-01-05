@@ -69,5 +69,5 @@ Project include:
 </ul>
 </div>
 
-<img src="images/advertising_a_b.png"/>
+<img src="images/a_b_test.png"/>
 
