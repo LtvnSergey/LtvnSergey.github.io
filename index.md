@@ -50,6 +50,8 @@ Gradio framework was used for web application.
 <br>
 
  ---
+
+
 ## Statistical analysis
 
 ### Advertising A/B testing
@@ -68,8 +70,7 @@ Project include:
 </div>
 
 <br>
-<br>
-<center><img src="images/advertising_a_b.png"/></center>
+<img src="images/advertising_a_b.png" width="1000"/>
 <br>
 
  ---
