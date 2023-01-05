@@ -60,11 +60,14 @@ Gradio framework was used for web application.
 <br>To do so they made new creative advertising design with SmartAd brand and conduct an A/B test in which <br>one group of users have been shown an old ad and another - new one.
 
 Project include: 
-- Analysis of data
-- Fisher exact test
-- Confidence interval calculation
+<ul class="b">
+    <li>Analysis of data</li>
+    <li>Fisher exact test</li>
+    <li>Confidence interval calculation</li>
+</ul>
 </div>
+
 <br>
 <center><img src="images/advertising_a_b.png"/></center>
-
+<br>
 ---
