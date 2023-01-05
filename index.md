@@ -71,6 +71,7 @@ Project include:
 
 
 <br>
-<img src="images/advertising_a_b.png" width="1000"/>
+<img src="images/cyclegan_1.png"/>
+<img src="images/advertising_a_b.png"/>
 <br>
 
