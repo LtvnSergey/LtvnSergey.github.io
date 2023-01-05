@@ -41,10 +41,30 @@ Quality of the model prediction was measured by accuracy and confusion matrix.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/LtvnSergey/CycleGAN-Photo-to-Monet)
 <div style="text-align: justify">  Web application for converting photo images into Monet-like paintings using CycleGAN network.  
-Gradio framework was used for web application. In 
+Gradio framework was used for web application.
 </div>
 
 <br>
 <br>
 <center><img src="images/cyclegan_1.png"/></center>
 <br>
+
+ ---
+## Statistical analysis
+
+### Advertising A/B testing
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/LtvnSergey/Advertising-A-B-Testing)
+
+<div style="text-align: justify">The company is trying new ad design to increase ad success. 
+<br>To do so they made new creative advertising design with SmartAd brand and conduct an A/B test in which <br>one group of users have been shown an old ad and another - new one.
+
+Project include: 
+- Analysis of data
+- Fisher exact test
+- Confidence interval calculation
+</div>
+<br>
+<center><img src="images/advertising_a_b.png"/></center>
+
+---
