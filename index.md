@@ -60,7 +60,8 @@ Gradio framework was used for web application.
 
 <div style="text-align: justify">The company is trying new ad design to increase ad success. 
 <br>To do so they made new creative advertising design with SmartAd brand and conduct an A/B test in which <br>one group of users have been shown an old ad and another - new one.
-
+<br>
+<br>
 Project include: 
 <ul class="b">
     <li>Analysis of data</li>
