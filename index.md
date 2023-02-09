@@ -111,3 +111,28 @@ Gradio framework was used for web application.
 
 
 ---
+
+
+## SQL
+
+### SQL - Clique Bait
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/LtvnSergey/SQL-Clique-Bait)
+
+<div style="text-align: justify">The goal of the project is to analyse and calculate funnal fallout rates for Clique Bait online seafood store.
+<br>The project is based on 8weeksqlchallenge.com case.
+<br>
+<br>
+<b>Project include</b>: 
+<br>
+<br>
+<ul class="b">
+    <li>Setting up PostgresSQL server</li>
+    <li>Creating project database and loading schemas with input tables</li>
+    <li>Digit analysis</li>
+    <li>Product funnel analysis</li>
+    <li>Campaigns analysis</li>
+</ul>
+</div>
+
+<img src="images/clique_bait.png"/>
