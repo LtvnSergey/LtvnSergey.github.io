@@ -168,7 +168,7 @@ Gradio framework was used for web application.
 </ul>
 </div>
 
-<img src="images/clique_bait.png" alt="Image" width="1000" height="350"/>
+<img src="images/clique_bait.png" />
 
 
  ---
@@ -198,4 +198,5 @@ The goal of the project is to analyse aggregated metrics for an example client a
 </ul>
 </div>
 
-<img src="images/fresh_segments.png" alt="Image" width="1000" height="350"/>
+
+<img src="images/fresh_segments.png" />
