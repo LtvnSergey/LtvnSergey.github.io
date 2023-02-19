@@ -13,7 +13,7 @@ This is an image segmentation problem. Project includes preprocessing data in sp
 training U-net for segmentation, tracking with Tensorboard. For quality measurements DICE metric was used.    
 <br>
 <br>
-<b>Project include</b>: 
+<b>Project includes</b>: 
 <br>
 <br>
 <ul class="b">
@@ -40,7 +40,7 @@ In th project pre-trained Resnet50 was used for training,  Flask framework - for
 Quality of the model prediction was measured by accuracy and confusion matrix.
 <br>
 <br>
-<b>Project include</b>: 
+<b>Project includes</b>: 
 <br>
 <br>
 <ul class="b">
@@ -68,7 +68,7 @@ Quality of the model prediction was measured by accuracy and confusion matrix.
 Gradio framework was used for web application.
 <br>
 <br>
-<b>Project include</b>: 
+<b>Project includes</b>: 
 <br>
 <br>
 <ul class="b">
@@ -97,7 +97,7 @@ Gradio framework was used for web application.
 <br>To do so they made new creative advertising design with SmartAd brand and conduct an A/B test in which one group of users have been shown an old ad and another - new one.
 <br>
 <br>
-<b>Project include</b>: 
+<b>Project includes</b>: 
 <br>
 <br>
 <ul class="b">
@@ -123,7 +123,7 @@ Gradio framework was used for web application.
 <br>The project is based on 8weeksqlchallenge.com case.
 <br>
 <br>
-<b>Project include</b>: 
+<b>Project includes</b>: 
 <br>
 <br>
 <ul class="b">
@@ -150,7 +150,7 @@ The goal of the project is to analyse aggregated metrics for an example client a
 <br>The project is based on 8weeksqlchallenge.com case.
 <br>
 <br>
-<b>Project include</b>: 
+<b>Project includes</b>: 
 <br>
 <br>
 <ul class="b">
