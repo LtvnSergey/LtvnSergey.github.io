@@ -136,3 +136,31 @@ Gradio framework was used for web application.
 </div>
 
 <img src="images/clique_bait.png"/>
+
+
+ ---
+
+
+### SQL - Fresh Segments
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/LtvnSergey/SQL-Clique-Bait)
+
+<div style="text-align: justify">Fresh Segments is a digital marketing agency that helps other businesses analyse trends in online ad click behaviour for their unique customer base.
+The goal of the project is to analyse aggregated metrics for an example client and provide some high level insights about the customer list and their interests.
+<br>The project is based on 8weeksqlchallenge.com case.
+<br>
+<br>
+<b>Project include</b>: 
+<br>
+<br>
+<ul class="b">
+    <li>Setting up PostgresSQL server</li>
+    <li>Creating project database and loading schemas with input tables</li>
+    <li>Data exploration and cleansing</li>
+    <li>Interest analysis</li>
+    <li>Segment analysis
+    <li>Index analysis</li>
+</ul>
+</div>
+
+<img src="images/fresh_segments.png"/>
